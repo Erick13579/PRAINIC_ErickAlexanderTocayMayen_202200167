@@ -68,6 +68,12 @@ Antes de comenzar con la limpieza de los componentes, eliminar el polvo acumulad
 
 Realizar estas tareas de manera periódica ayudará a mantener el equipo en óptimas condiciones y evitará fallos a largo plazo. Para procedimientos más complejos, siempre es recomendable acudir a un técnico especializado.
 
+### Fuentes de Documentación 
+[Concepto de Computadora](https://concepto.de/computadora/)
+[Hardware](https://universidadeuropea.com/blog/que-es-hardware-ordenador/)
+[Software](https://www.arimetrics.com/glosario-digital/software)
+[Partes importantes de una Computadora](https://tecno-comunicacion.jimdofree.com/tecnolog%C3%ADa-de-la-informaci%C3%B3n/sistemas-digitales-de-informaci%C3%B3n/hardware-componentes-internos/)
+
 ### Video Tutorial 
 Link del video [aquí](https://youtu.be/7lHtR8E5Eko)
 
