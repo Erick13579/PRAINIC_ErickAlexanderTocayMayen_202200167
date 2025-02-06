@@ -4,7 +4,7 @@ Erick Alexander Tocay Mayén
 # Prompts 
 A continuación se encontrarán las capturas de los prompts hechos durante la realización de la práctica. 
 
-![](1.png)
+![](imagenes/1.png)
 ![](2.png)
 ![](3.png)
 ![](4.png)
