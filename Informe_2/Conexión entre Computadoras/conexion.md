@@ -1,0 +1,2 @@
+# Conexión entre computadoras
+Para visualizar el video sobre la conexión entre dos computadoras de manera alámbrica e inalámbrica ingrese al enlace [aqui](https://drive.google.com/drive/folders/1wC9f1FMrqzL3b5QKBF9xjvfVcewN8fbc?usp=drive_link)
