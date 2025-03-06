@@ -7,7 +7,7 @@ Es una de las distribuciones mas famosas de este sistema operativo, debido a su 
 
 Para utilizar Ubuntu en una computadora se puede realizar de dos maneras: instalar la ISO directamente en la computadora (como Windows) o por medio de la virtualización. Esta ultima es la mas oportuna si lo que se quiere es experimentar con Linux o si solamente se desea mantener dos o mas sistemas operativos a la vez. En este manual se utilizará la virtualización de Linux en la distribución de Ubuntu por medio de VirtualBox. 
 
-### Instalación del Sistema Operativo (Ubuntu)
+## Instalación del Sistema Operativo (Ubuntu)
 Antes de instalar Ubuntu en la máquina virtual es importante los requisitos mínimos para su correcto funcionamiento: 
 *	Procesador de 64 bits compatible con virtualización (debe estar activada en la bios).
 *	8gb o mas de memoria RAM.
@@ -41,7 +41,7 @@ Una vez destinada la correcta cantidad de memoria seleccionamos la pestaña “D
 Por último, presionamos el botón “Terminar” y ejecutamos la máquina.
 ![](Imagenes/8.png)
 
-### Uso de la terminal en Ubuntu
+## Uso de la terminal en Ubuntu
 Hacer uso de la terminal en Ubuntu es indispensable para optimizar procesos de creacion, eliminacion y edicion de archivos o carpetas, inclusive de acciones mas administrativas. A continuación se mostrarán los comandos más importantes: 
 
 * **Navegar entre archivo y directorios**
@@ -111,7 +111,7 @@ Hacer uso de la terminal en Ubuntu es indispensable para optimizar procesos de c
     * Para eliminar el paquete junto a su configuración se usa "***sudo apt purge paquete***"
     * Para eliminar paquetes innecesarios "***sudo apt autoremove***"
 
-### Levantar un servidor 
+## Levantar un servidor 
 A continuación se mostrarán los pasos para iniciar un servidor de Apache: 
 
 * Como primer paso, debemos actualizar la lista de paquetes disponibles: 
