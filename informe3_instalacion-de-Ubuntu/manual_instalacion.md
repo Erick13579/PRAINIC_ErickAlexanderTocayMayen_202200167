@@ -111,17 +111,17 @@ Hacer uso de la terminal en Ubuntu es indispensable para optimizar procesos de c
     * Para eliminar el paquete junto a su configuración se usa "***sudo apt purge paquete***"
     * Para eliminar paquetes innecesarios "***sudo apt autoremove***"
 
-    ### Levantar un servidor 
-    A continuación se mostrarán los pasos para iniciar un servidor de Apache: 
+### Levantar un servidor 
+A continuación se mostrarán los pasos para iniciar un servidor de Apache: 
 
-    * Como primer paso, debemos actualizar la lista de paquetes disponibles: 
-    ![](Imagenes/update.png)
+* Como primer paso, debemos actualizar la lista de paquetes disponibles: 
+![](Imagenes/update.png)
 
-    * Luego se instala Apache2 usando la terminal: 
-    ![](Imagenes/install_apache2.png)
+* Luego se instala Apache2 usando la terminal: 
+![](Imagenes/install_apache2.png)
 
-    * Con esto hecho el servidor debería de estar ejecutandose correctamente, para verificarlo hacemos lo siguiente: 
-    ![](Imagenes/verify_apache2.png)
+* Con esto hecho el servidor debería de estar ejecutandose correctamente, para verificarlo hacemos lo siguiente: 
+![](Imagenes/verify_apache2.png)
 
-    * Una vez instalado y corriendo con normalidad, ingresamos al navegador e ingresamos lo siguiente: *http://localhost*. Deberia mostrar la página de bienvenida de apache o un archivo html modificado previamente.
-    ![](Imagenes/homepage.png)
+* Una vez instalado y corriendo con normalidad, ingresamos al navegador e ingresamos lo siguiente: *http://localhost*. Deberia mostrar la página de bienvenida de apache o un archivo html modificado previamente.
+![](Imagenes/homepage.png)
